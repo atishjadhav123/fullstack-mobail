@@ -1,0 +1,10 @@
+node_modules
+.env
+
+# git init 
+# git remote add origin https://github.com/atishjadhav123/mobail-todo-server.git
+
+# git add .
+# git commit -m "initial setup"
+
+# git push origin master
